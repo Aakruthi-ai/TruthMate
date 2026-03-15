@@ -1,0 +1,12 @@
+gradio
+scikit-learn
+pandas
+numpy
+requests
+beautifulsoup4
+newspaper3k
+lxml[html_clean]
+lxml_html_clean
+groq
+joblib
+nltk
